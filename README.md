@@ -4,7 +4,7 @@ Mondrian’s *Broadway Boogie Woogie* abstracted the rhythm and energy of New Yo
 
 ### Reference Images
 ![Urban Mondrian Style 1](Inspiration1.jpg)  
-![Urban Mondrian Style 2](./your-image-file-2.png)
+![Urban Mondrian Style 2](Inspiration2.jpg)
 
 ## Part 2: Coding Technique Exploration
 I use a time-based animation technique in p5.js to simulate a “glitch” aesthetic applied to Mondrian’s geometric grid. A 2D array of squares is drawn to the canvas, and each cell randomly switches between red, yellow, blue, white, and black on every frame using random() and frameCount. This creates a flickering, malfunctioning-TV effect that echoes the rhythm and grid logic of Broadway Boogie Woogie, but reimagined with cyberpunk visual language. The result is a dynamic reinterpretation of Mondrian’s abstraction—pulsating with time, chaos, and controlled unpredictability, perfectly suited for generative coding.
